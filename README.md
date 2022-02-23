@@ -1,1 +1,0 @@
-# ejercicio-cicd-maven-simple
